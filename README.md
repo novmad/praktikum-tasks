@@ -1,2 +1,2 @@
-# ML
-This is repository for machine learning exercises
+# Yandex.Praktikum
+This is repository for the DS course of Yandex.Praktikum that incdudes ML projects.
