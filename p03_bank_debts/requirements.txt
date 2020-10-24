@@ -1,0 +1,10 @@
+nltk==3.4.5
+pandas==1.0.1
+pymorphy2==0.8
+pymorphy2-dicts==2.4.393442.3710985
+pymorphy2-dicts-ru==2.4.404381.4453942
+pymystem3==0.2.0
+requests==2.22.0
+sortedcollections==1.1.2
+urllib3==1.25.8
+
