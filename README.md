@@ -1,2 +1,7 @@
 # Ya.Praktikum
-This is repository for the DS course of Yandex.Praktikum that incdudes ML projects.
+
+* **p03_bank_debts** - Исследование надёжности заёмщиков
+* **p04_apartments** - Исследование объявлений о продаже квартир
+* **p05_tariffs** - Определение перспективного тарифа для телеком компании
+* **p06_games** - Выявление закономерностей, определяющих успешность компьютерных игр
+
