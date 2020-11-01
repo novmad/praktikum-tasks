@@ -27,7 +27,7 @@ sudo apt update
 sudo apt install python3.7 python3.7-venv
 
 # перейти в каталог проекта
-cd <poject catalogue>
+cd <project catalogue>
 
 # установка виртуального окружения 
 python3.7 -m venv ./venv
