@@ -16,6 +16,7 @@
 | p11_insurance          | [Преобразование данных клиентов страховой компании](https://github.com/novmad/praktikum-tasks/tree/master/p11_insurance)                |
 | p12_autos              | [Определение рыночной стоимости автомобиля](https://github.com/novmad/praktikum-tasks/tree/master/p12_autos)                            |
 | p13_taxi               | [Прогноз количества заказов такси](https://github.com/novmad/praktikum-tasks/tree/master/p13_taxi)                                      |
+| p14_toxic_comments     | [Определение токсичности комментария](https://github.com/novmad/praktikum-tasks/tree/master/p14_toxic_comments)                         |
 
 
 Для воспроизведения проектов требуется выполнить следующие действия (приведены для ОС Linux):
