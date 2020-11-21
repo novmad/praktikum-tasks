@@ -17,9 +17,6 @@
 * pandas
 * requests
 * seaborn
-* torch
-* tqdm
-* transformers
 
 Проект завершён.
 
