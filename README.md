@@ -17,6 +17,7 @@
 | p12_autos              | [Определение рыночной стоимости автомобиля](https://github.com/novmad/praktikum-tasks/tree/master/p12_autos)                            |
 | p13_taxi               | [Прогноз количества заказов такси](https://github.com/novmad/praktikum-tasks/tree/master/p13_taxi)                                      |
 | p14_toxic_comments     | [Определение токсичности комментария](https://github.com/novmad/praktikum-tasks/tree/master/p14_toxic_comments)                         |
+| p15_flights            | [Исследование спроса на авиабилеты](https://github.com/novmad/praktikum-tasks/tree/master/p15_flights)                                  |
 
 
 Для воспроизведения проектов требуется выполнить следующие действия (приведены для ОС Linux):
