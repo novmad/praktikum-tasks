@@ -18,6 +18,7 @@
 | p13_taxi               | [Прогноз количества заказов такси](https://github.com/novmad/praktikum-tasks/tree/master/p13_taxi)                                      |
 | p14_toxic_comments     | [Определение токсичности комментария](https://github.com/novmad/praktikum-tasks/tree/master/p14_toxic_comments)                         |
 | p15_flights            | [Исследование спроса на авиабилеты](https://github.com/novmad/praktikum-tasks/tree/master/p15_flights)                                  |
+| p16_cv                 | [Определение возраста покупателя](https://github.com/novmad/praktikum-tasks/tree/master/p16_cv) |
 | p17_telecom            | [Отток клиентов оператора связи](https://github.com/novmad/praktikum-tasks/tree/master/p17_telecom)                                  |
 
 
